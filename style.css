@@ -1,0 +1,33 @@
+#list {
+  list-style: none;
+}
+
+.smaller-image {
+  width: 100px;
+  margin: 0 15px;
+}
+
+.body-background {
+  background-color: #E1DFDF;
+}
+
+#main{
+  background-color: white;
+}
+
+.font-title{
+  font-size: 40px;
+  font-family: Radley, sans-serif;
+}
+
+.font-body{
+  font-size: 20px;
+  font-family: Radley, sans-serif;
+}
+
+li {
+    padding-left: 15px;
+    border-left: 2px solid #000;
+    font-size: 20px;
+    margin: 0 0 20px;
+}
