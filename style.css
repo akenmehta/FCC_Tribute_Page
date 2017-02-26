@@ -7,15 +7,17 @@
   margin: 0 15px;
 }
 
-.body-background {
+/*.body-background {
   background-color: #E1DFDF;
-}
+}*/
 
 #main{
   background-color: white;
-  padding-top: 5px;
+  padding-top: 3px;
 }
-
+p{
+	padding: 3px 10px;
+}
 .font-title{
   font-size: 40px;
   font-family: Radley, sans-serif;
@@ -26,9 +28,15 @@
   font-family: Radley, sans-serif;
 }
 
-li {
+li{
     padding-left: 15px;
     border-left: 2px solid #000;
     font-size: 20px;
     margin: 0 0 20px;
+}
+footer{
+	padding-bottom: 0;
+	height: 20px;
+	background: black;
+	color: white;
 }
